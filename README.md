@@ -28,7 +28,7 @@
 <h3 align="left">Web Servers:</h3>
 <p align="left">
 <a href="https://www.jboss.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/JBoss_logo.svg" alt="jboss" width="42" height="42"/> </a>
-<a href="http://tomcat.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Tomcat-logo.svg" alt="tomcat" width="42" height="42"/>  </a>
+<a href="http://tomcat.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" alt="tomcat" width="42" height="42"/>  </a>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/54044999_650038862110748_7626518215702609920_n.png?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=2AMtPepMmAcAX8HMH2i&_nc_ht=scontent-mad1-1.xx&oh=0b5d6ab13c1484a77b120d45faad9241&oe=60872195" width="70" height="40"></a>
 </p>
 
