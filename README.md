@@ -52,7 +52,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/rafareborn" target="blank"><img align="center" src="https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-source-240px.svg" alt="rafareborn" height="30" width="40" /></a>
-<a href="https://fb.com/rafa.sanleon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rafa.sanleon" height="30" width="40" /></a>
 <a href="https://instagram.com/notthefakewastedrafa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="notthefakewastedrafa" height="30" width="40" /></a>
 </p>
 <br>
